@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=v
+comment1.target=enemy(int)
+comment2.params=space
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ eat()
+numComments=6
