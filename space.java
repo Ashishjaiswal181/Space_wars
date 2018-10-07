@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class space extends World
 {
-    private int jeda=0;
+    private int jedi=0;
     /**
      * Constructor for objects of class space.
      * 
@@ -22,16 +22,16 @@ public class space extends World
     }
     public void act()
     {
-        if(jeda>0)
-        jeda--;
+        if(jedi>0)
+        jedi--;
         else
-        jeda=20;
-        if(jeda==1){
+        jedi=20;
+        if(jedi==1){
             int py=Greenfoot.getRandomNumber(getHeight());
             addObject(new enemy(-(5+Greenfoot.getRandomNumber(5))),getWidth()+200,py);
             int i=1;
             i=i+2;
-            jeda=jeda+i;
+            jedi=jedi+i;
         }
     }
 }
