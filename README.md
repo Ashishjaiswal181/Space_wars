@@ -14,3 +14,5 @@ This project is a simple game dedicated to my childhood, I used to play a game s
 If you remember the nostalgic game you might have played in **Nokia** phones.
 
 # Thank you!
+
+### Note: The web extension will not work on Google Chrome, Firefox or Edge browser as they have removed the .jar plugin.
