@@ -13,6 +13,8 @@ automatically and don't let the rockets touch your plane. The game is developed 
 This project is a simple game dedicated to my childhood, I used to play a game similar to this a lot in my chidhood.
 If you remember the nostalgic game you might have played in **Nokia** phones.
 
+You can check out the game published on Itch.io and download from there. Here is the [link](https://ashish-kumar.itch.io/space-wars) for the same.
+
 # Thank you!
 
 ### Note: The web extension will not work on Google Chrome, Firefox or Edge browser as they have removed the .jar plugin.

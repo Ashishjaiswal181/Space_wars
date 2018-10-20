@@ -18,7 +18,7 @@ public class laser extends Actor
         image.setColor(Color.CYAN);
         image.drawLine(1,3,100,5);
         setImage(image);
-        Greenfoot.playSound("29.Avicii_Waiting_For_Love.mp3");
+        //Greenfoot.playSound("29.Avicii_Waiting_For_Love.mp3");
     }
     public void act() 
     {
